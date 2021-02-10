@@ -2,11 +2,10 @@
 
 ### Sobre mim 
 - Sou estudante de Analise e Desenvolvimento de Sistema
-
-#### Atualmente estou estudando
-  - HTML
-  - CSS
-  - JavaScript
+- Atualmente estou estudando
+   - HTML
+   - CSS
+   - JavaScript
 
 <!--
 **Esther-Cardoso/Esther-Cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
