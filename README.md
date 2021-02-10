@@ -2,7 +2,7 @@
 
 ### Sobre mim 
 - Sou estudante de Analise e Desenvolvimento de Sistema
-- Atualmente estou estudando
+- Atualmente estou estudando:
    - HTML
    - CSS
    - JavaScript
