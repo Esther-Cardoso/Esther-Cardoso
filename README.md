@@ -1,4 +1,4 @@
-## Hi there, eu sou a Esther 👋
+# Olá, eu sou a Esther 👋
 
 > Estudante de Análise e Desenvolvimento de Sistemas
 ## Atualmente estou estudando
