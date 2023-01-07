@@ -1,10 +1,20 @@
-## Oiii! Eu sou a Esther 👋
+<!-- ## Oiii! Eu sou a Esther 👋 -->
 <!--  <div>
   <a href="https://github.com/Esther-Cardoso">
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Esther-Cardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esther-Cardoso&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
 
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou a Esther! Bem vindo(a) ao meu perfil!</h1>
+
+<br>
+
+💻 Atualmente estou em busca da minha primeira oportunidade na área de programação.<br>
+🚀 No momento estou aprendendo React e Node. E sempre colando em prática com projetos.<br>
+💬 Entre em contato por alguma rede social, vamos bater um papo ou fazer algum projeto juntos.<br>
+
+<hr>
+<br>
   
 <div align="center">
   <a href="https://github.com/Esther-Cardoso">
@@ -13,12 +23,20 @@
 <a href="https://git.io/streak-stats">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Esther-Cardoso&theme=tokyonight"/> 
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Esther-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Esther-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Esther-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Esther-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    
+<div align="center">
+  
+  ## Aqui estão as tecnologias que estou estudando atualmente.
+  
+  <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5">
+  <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3">
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+  <img src="https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass">
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap">
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React">
+  <img src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=Node.js">
+  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express">
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
 </div>
   
   ##
