@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gist/Esther-Cardoso/380bc41bf40e5d66de12bef710e3ab80/raw/aea9606ee0b4446e8215563b524876fdc73c9d2d/baner-readme.svg"/>
+<img src="https://raw.githubusercontent.com/gist/Esther-Cardoso/380bc41bf40e5d66de12bef710e3ab80/raw/5724c4ce9f1ff4090a6d95ba975440a25c1b1b9c/baner-readme.svg"/>
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Bem vindo(a) ao meu perfil!</h1>
 
