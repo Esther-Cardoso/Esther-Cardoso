@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/gist/Esther-Cardoso/380bc41bf40e5d66de12bef710e3ab80/raw/5724c4ce9f1ff4090a6d95ba975440a25c1b1b9c/baner-readme.svg"/>
+<!-- <img src="https://raw.githubusercontent.com/gist/Esther-Cardoso/380bc41bf40e5d66de12bef710e3ab80/raw/5724c4ce9f1ff4090a6d95ba975440a25c1b1b9c/baner-readme.svg"/> -->
 
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Bem vindo(a) ao meu perfil!</h1>
 
-- 🔥 Front-end developer, sempre em busca de novos conhecimentos e colando em prática com projetos.
+- 🔥 Front-end developer, sempre em busca de novos conhecimentos e colocando em prática com projetos.
 
 - 💻 Atualmente estou em busca de uma oportunidade na área de programação.
 
